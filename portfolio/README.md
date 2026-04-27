@@ -14,11 +14,13 @@
 - **Result:** improved mobile admin usability, fixed Telegram media edge-cases, integrated VK merch flow.
 - **Tech:** React 19, TypeScript, Vite 8, Tailwind, GSAP, Framer Motion, Supabase.
 
-## Case 3 — Telegram/API automation (template)
-- **Task:** automate user flow in Telegram with external API.
-- **Solution:** bot workflow + backend integration + status handling.
-- **Result:** reduced manual operations and faster user processing.
+## Case 3 — Real Vibe Studio (AI service website)
+- **Task:** build a conversion-focused AI-studio website with media portfolio and lead capture.
+- **Solution:** custom frontend (HTML/CSS/JS) + Node/Express backend layer with OpenAI-assisted chat flow.
+- **My contribution:** full-cycle implementation, interaction polishing, content/media layout iteration.
+- **Result:** public studio site with clear service packaging, portfolio blocks, and direct contact funnel.
+- **Live:** https://real-vibe.studio/
 
 ---
 
-(Добавляю публичные ссылки/демо по мере подготовки showcase-версий.)
+(Добавляю дополнительные публичные кейсы/демо по мере подготовки showcase-версий.)
