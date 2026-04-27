@@ -1,24 +1,25 @@
-# Base Resume v1 (white-coder foundation)
+# Stepan Ivanov — Agentic Full-Stack Developer
 
-## Header
-**Stepan Ivanov — Agentic Full-Stack Developer**
+Разрабатываю веб-решения под ключ: frontend, backend, интеграции, деплой и стабилизация продакшена.
 
-Я разрабатываю комплексные веб-решения под ключ: от интерфейса до backend-архитектуры и деплоя.
-Основной стек: React/Next.js + TypeScript на frontend и Python (FastAPI/Django) на backend.
+## Positioning
+- MVP → production-ready
+- AI/agentic workflow для ускорения delivery
+- Фокус на результате и стабильной эксплуатации
 
-Помогаю бизнесу запускать продукты быстро, без технического долга и «костылей».
+## Core Stack
+- Frontend: React, Next.js, TypeScript, Tailwind, Framer Motion
+- State: Zustand / Redux
+- Backend: FastAPI, Django/DRF, Node.js (Express)
+- Data/Infra: PostgreSQL, Supabase, Vercel
+- Quality: Playwright, lint/format, build checks
 
-## Core Skills
-- Frontend: React (Hooks, Context), Next.js 14+, TypeScript
-- State Management: Zustand / Redux (по задачам проекта)
-- Backend: FastAPI (микросервисы), Django + DRF (сложные системы)
-- Node.js: Express.js для легковесных API и интеграций
+## Key Competencies
+1. Fullstack delivery (UI + API + deploy)
+2. Production debugging (routing/cache/mobile regressions)
+3. Integrations (Telegram, payments, external APIs)
+4. Release and hotfix discipline
 
-## What clients get
-- Адаптивный, быстрый и стабильный интерфейс
-- Безопасный и документированный API (Swagger/OpenAPI)
-- Поддерживаемый и масштабируемый код
-- Чёткая коммуникация и предсказуемые сроки
-
-## Status
-База сохранена. Дальше дорабатываем по результатам аудита GitHub и реальных кейсов.
+## Contacts
+- Telegram: @Stepa101
+- GitHub: https://github.com/Realcampdzen
