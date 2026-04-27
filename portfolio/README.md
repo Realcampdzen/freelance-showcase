@@ -33,6 +33,13 @@
 - **My contribution:** scrollytelling pipeline and runtime interaction logic.
 - **Result:** robust animation sandbox for advanced hero/story sections in production websites.
 
+## Case 6 — UserPanel Mobile (Android telecom app)
+- **Task:** maintain and evolve a native Android user account app for telecom customers.
+- **Solution:** Java Android app with billing/profile/messages modules, Firebase messaging, and flavor-based builds.
+- **My contribution:** production support, auth/billing bug fixes, and release maintenance.
+- **Result:** stabilized user flows and continued versioned updates across branded app flavors.
+- **Tech:** Java, Android SDK, Gradle, Firebase Messaging.
+
 ---
 
 (Добавляю дополнительные публичные кейсы/демо по мере подготовки showcase-версий.)
