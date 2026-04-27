@@ -40,6 +40,14 @@
 - **Result:** stabilized user flows and continued versioned updates across branded app flavors.
 - **Tech:** Java, Android SDK, Gradle, Firebase Messaging.
 
+## Case 7 — Real Camp Planner (planning constructor)
+- **Task:** create a practical planner app for building camp shift schedules.
+- **Solution:** React + TypeScript + Zustand planner architecture with constructor sidebar, kanban board, and template catalog.
+- **My contribution:** core planner UI/state architecture and deploy-ready structure.
+- **Result:** publicly deployed planning tool for operational use and iterative expansion.
+- **Live:** https://real-camp-planner.vercel.app/
+- **Tech:** React 18, TypeScript, Zustand, Tailwind, Vite, Vercel.
+
 ---
 
 (Добавляю дополнительные публичные кейсы/демо по мере подготовки showcase-версий.)
