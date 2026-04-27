@@ -21,6 +21,18 @@
 - **Result:** public studio site with clear service packaging, portfolio blocks, and direct contact funnel.
 - **Live:** https://real-vibe.studio/
 
+## Case 4 — DOMINIA-BARO (Motion/Branding landing)
+- **Task:** create branded dark-fantasy landing experience with premium motion feel.
+- **Solution:** React + TypeScript + Vite with GSAP and Lenis smooth-scroll, custom cursor, magnetic elements, reveal/particle effects.
+- **My contribution:** motion architecture and interaction implementation.
+- **Result:** cinematic, high-engagement landing ready for brand storytelling and media presentation.
+
+## Case 5 — DOMINIA-ELDRITCH-ARENA (Canvas scrollytelling sandbox)
+- **Task:** prototype immersive scroll narrative with heavy visual atmosphere.
+- **Solution:** Vanilla JS + GSAP + canvas frame-sequence engine (preload, fallback, responsive draw logic).
+- **My contribution:** scrollytelling pipeline and runtime interaction logic.
+- **Result:** robust animation sandbox for advanced hero/story sections in production websites.
+
 ---
 
 (Добавляю дополнительные публичные кейсы/демо по мере подготовки showcase-версий.)

@@ -1,55 +1,62 @@
 # Stepan Ivanov — Agentic Full-Stack Developer
 
-Разрабатываю веб-решения **под ключ**: от UX и frontend до backend, интеграций и деплоя.
-
-**Основной стек:**
-- Frontend: React, Next.js 14+, TypeScript, Tailwind
-- Backend: Python (FastAPI, Django/DRF), Node.js (Express)
-- Data/Infra: PostgreSQL, REST API, Docker, CI/CD (базово)
-- AI/Automation: Cursor/Claude/agentic workflow, API-интеграции
+Разрабатываю веб-решения **под ключ**: от UX/frontend до backend, интеграций, деплоя и стабилизации продакшена.
 
 ---
 
-## Что я делаю для бизнеса
-1. **Telegram-боты и Mini/MVP-сервисы**
-   - интеграции API, платежи, админ-панели, обработка файлов
-2. **Web-продукты и лендинги с логикой**
-   - Next.js, формы, калькуляторы, CRM-интеграции
-3. **Backend и автоматизация**
-   - FastAPI/DRF/Express, микросервисы, интеграционные сценарии
+## Top 3 кейса
+
+### 1) RL Guide Book 2.0
+Role-based платформа для лагеря с игровой механикой, облачной синхронизацией и рабочими кабинетами ролей.
+**Stack:** React 19, TS, Vite, Supabase, Vercel, Node/Python.
+
+### 2) DOMINIA
+Кинематографичная контентная платформа с админкой, social/media-интеграциями и циклом production bugfix.
+**Stack:** React, TS, Vite, Tailwind, GSAP/Framer Motion, Supabase, Tiptap.
+
+### 3) Real Vibe Studio
+Публичный AI-studio сайт с портфолио, лид-фаннелом и backend-слоем для AI-ассистента.
+**Stack:** HTML/CSS/JS, Node.js/Express, OpenAI integration.
+**Live:** https://real-vibe.studio/
+
+Полные кейсы: `portfolio/README.md`
+
+---
+
+## Услуги
+
+1. **Telegram-боты и AI-автоматизация**
+   - API/CRM/платежи/админ-панели
+2. **Web MVP и продуктовые доработки**
+   - Next.js/React, формы, калькуляторы, интеграции
+3. **Backend и интеграционные сервисы**
+   - FastAPI/Django/Express, webhook/pipeline логика
 4. **Техподдержка и стабилизация продакшена**
-   - багфикс, логи, миграции, регресс-контроль
+   - багфикс, регресс-контроль, эксплуатационные улучшения
 
 ---
 
 ## Что получает клиент
 - Быстрый запуск MVP без хаоса в коде
-- Понятные этапы работ и прозрачные сроки
-- Поддерживаемую архитектуру и документацию
-- Фокус на результате, а не на «просто написать код»
+- Прозрачные этапы и сроки
+- Поддерживаемую архитектуру
+- Фокус на бизнес-результат, а не «код ради кода»
 
 ---
 
-## Портфолио
-Смотри кейсы и структуру в `portfolio/README.md`.
-
-(В процессе наполнения реальными демо, ссылками и метриками по проектам.)
-
----
-
-## Базовое резюме
-`docs/base_resume.md`
+## Стек
+- Frontend: React, Next.js, TypeScript, Tailwind, GSAP, Framer Motion
+- Backend: FastAPI, Django/DRF, Node.js (Express)
+- Data/Infra: PostgreSQL, Supabase, Vercel, Docker (базово)
+- Workflow: Cursor/Claude/agentic delivery
 
 ---
 
-## Контакты
+## CTA / Связаться
+Если нужен исполнитель, который **может быстро разобрать задачу и довести до рабочего релиза**, пиши:
+
 - Telegram: **@Stepa101**
 - GitHub: **https://github.com/Realcampdzen**
 - Email: **[добавить рабочий email]**
 
----
-
-## Формат работы
-- Проектно / MVP / фикс за этап
-- Долгосрочная техподдержка
-- Возможна работа в связке с AI-агентами под ускорение delivery
+Готов сделать быстрый разбор задачи и предложить план этапов + оценку.
