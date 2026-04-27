@@ -21,6 +21,10 @@ Role-based платформа для лагеря с игровой механи
 
 Полные кейсы: `portfolio/README.md`
 
+### Latest live projects
+- **Real Vibe Studio:** https://real-vibe.studio/
+- **Real Camp Planner:** https://real-camp-planner.vercel.app/
+
 ---
 
 ## Услуги
