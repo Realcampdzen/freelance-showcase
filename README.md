@@ -6,9 +6,9 @@ I build practical web products for founders and small teams - and I specialize i
 
 ## Top 4 Projects
 
-### 1) RealCampApp (AI-Powered Guide)
-Scaled a full-stack application from Vercel to a custom VPS environment using Docker. Managed Node.js and Python microservices, including the "NeuraValusha" AI chatbot.
-**Tech Stack:** Node.js, Python, Docker, VPS Hosting.
+### 1) RealCampApp (SaaS-style Role-Based Platform)
+Architected and deployed a gamified educational platform for a real offline business. Features 8 user roles, 15+ dashboards, and a complex progression system (100+ badges). Engineered the complete pipeline: JWT/RBAC access, AI-assistant integrations, automated image processing, and e2e testing.
+**Tech Stack:** React, TypeScript, Supabase, Vercel, Node/Python, Cloudflare, Playwright.
 
 ### 2) DOMINIA (Official Website)
 Architected a high-performance web platform for the Dominia project with cinematic video integrations. Built a custom Supabase proxy to bypass ISP-level blocking and ensure 100% uptime.

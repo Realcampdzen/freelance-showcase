@@ -1,11 +1,11 @@
 # Portfolio
 
-## Case 1 — RealCampApp (AI-Powered Guide)
-- **Task:** Scale a full-stack application and manage microservices including an AI chatbot.
-- **Solution:** Migrated from Vercel to a custom VPS environment using Docker.
-- **My contribution:** Backend stability, server management, and containerization.
-- **Result:** Stable production uptime for Node.js and Python microservices (NeuraValusha chatbot).
-- **Tech:** Node.js, Python, Docker, VPS Hosting.
+## Case 1 — RealCampApp (SaaS-style Role-Based Platform)
+- **Task:** Digitize a real offline camp methodology into a scalable gamified web platform.
+- **Solution:** End-to-end development of a role-based SaaS with complex state management and AI features.
+- **My contribution:** Full-stack implementation as the primary builder—from UI/UX and RBAC architecture (8 roles, 15+ dashboards) to DevOps (CI/CD, e2e testing, image pipelines).
+- **Result:** A stable, production-ready community platform bridging offline activities with digital progress tracking (100+ badges).
+- **Tech:** React, TypeScript, Supabase, Vercel, Node/Python, Cloudflare, Playwright.
 
 ## Case 2 — DOMINIA (Official Website)
 - **Task:** Develop a high-performance web platform with cinematic video integrations and bypass ISP-level blocking.
