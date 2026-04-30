@@ -1,9 +1,9 @@
 # Portfolio
 
 ## Case 1 — RealCampApp (SaaS-style Role-Based Platform)
-- **Task:** Digitize a real offline camp methodology into a scalable gamified web platform.
+- **Task:** Digitize my own real-world offline camp methodology into a scalable gamified web platform. (I have been running the "AI for Learning and Creativity" camp program since Nov 2024).
 - **Solution:** End-to-end development of a role-based SaaS with complex state management and AI features.
-- **My contribution:** Full-stack implementation as the primary builder—from UI/UX and RBAC architecture (8 roles, 15+ dashboards) to DevOps (CI/CD, e2e testing, image pipelines).
+- **My contribution:** Founder & Primary Builder. Authored the offline 4K-skills methodology and implemented the full-stack architecture (8 roles, 15+ dashboards) to DevOps (CI/CD, e2e testing).
 - **Result:** A stable, production-ready community platform bridging offline activities with digital progress tracking (100+ badges).
 - **Tech:** React, TypeScript, Supabase, Vercel, Node/Python, Cloudflare, Playwright.
 

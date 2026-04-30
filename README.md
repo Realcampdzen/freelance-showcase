@@ -1,6 +1,8 @@
-# Stepan Ivanov — Agentic Full-Stack Developer
+# Stepan Ivanov — Agentic Full-Stack Developer & AI Educator
 
-I build practical web products for founders and small teams - and I specialize in turning AI-generated prototypes into stable, working releases.
+I build practical web products for founders and small teams - and I specialize in turning AI-generated prototypes into stable, working releases. 
+
+**Domain Expertise:** Since November 2024, I have been running my own private kids' tech camp. I authored and lead the "AI for Learning and Creativity" program, focusing on teaching "4K" skills through AI tools. This hands-on offline business experience allows me to design products that solve real human problems, not just write code.
 
 ---
 
