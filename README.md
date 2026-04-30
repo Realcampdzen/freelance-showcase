@@ -1,66 +1,54 @@
-# Stepan Ivanov — Agentic Full-Stack Developer
+# Stanislav P. — Agentic Full-Stack Developer
 
-Разрабатываю веб-решения **под ключ**: от UX/frontend до backend, интеграций, деплоя и стабилизации продакшена.
+I build practical web products for founders and small teams - and I specialize in turning AI-generated prototypes into stable, working releases.
 
 ---
 
-## Top 3 кейса
+## Top 4 Projects
 
-### 1) RL Guide Book 2.0
-Role-based платформа для лагеря с игровой механикой, облачной синхронизацией и рабочими кабинетами ролей.
-**Stack:** React 19, TS, Vite, Supabase, Vercel, Node/Python.
+### 1) Putevoditel (AI-Powered Guide)
+Scaled a full-stack application from Vercel to a custom VPS environment using Docker. Managed Node.js and Python microservices, including the "NeuraValusha" AI chatbot.
+**Tech Stack:** Node.js, Python, Docker, VPS Hosting.
 
-### 2) DOMINIA
-Кинематографичная контентная платформа с админкой, social/media-интеграциями и циклом production bugfix.
-**Stack:** React, TS, Vite, Tailwind, GSAP/Framer Motion, Supabase, Tiptap.
+### 2) DOMINIA (Official Website)
+Architected a high-performance web platform for the Dominia project with cinematic video integrations. Built a custom Supabase proxy to bypass ISP-level blocking and ensure 100% uptime.
+**Tech Stack:** React, TypeScript, Supabase, Video Optimization.
 
-### 3) Real Vibe Studio
-Публичный AI-studio сайт с портфолио, лид-фаннелом и backend-слоем для AI-ассистента.
-**Stack:** HTML/CSS/JS, Node.js/Express, OpenAI integration.
+### 3) DOMINIA Arena
+Developed the web presence for Dominia Arena with dynamic interactive elements. Interactive UI, fast rendering, and scalable frontend architecture.
+**Tech Stack:** React ecosystem, Frontend optimization.
+
+### 4) Real Vibe Studio (AI Agency)
+Built and iterated a creative digital agency website featuring an AI-assisted workflow.
+**Tech Stack:** HTML/CSS/JS, Node.js/Express, OpenAI integration.
 **Live:** https://real-vibe.studio/
 
 Полные кейсы: `portfolio/README.md`
 
-### Latest live projects
-- **Real Vibe Studio:** https://real-vibe.studio/
-- **Real Camp Planner:** https://real-camp-planner.vercel.app/
+---
+
+## Core Services
+
+1. **AI app rescue and stabilization**
+   - Deploy, auth, API, and data flow fixes.
+2. **React/Supabase MVPs**
+   - Clear milestones from scope to first release.
+3. **Telegram bots and AI automations**
+   - Lead intake, support, and internal operations.
 
 ---
 
-## Услуги
-
-1. **Telegram-боты и AI-автоматизация**
-   - API/CRM/платежи/админ-панели
-2. **Web MVP и продуктовые доработки**
-   - Next.js/React, формы, калькуляторы, интеграции
-3. **Backend и интеграционные сервисы**
-   - FastAPI/Django/Express, webhook/pipeline логика
-4. **Техподдержка и стабилизация продакшена**
-   - багфикс, регресс-контроль, эксплуатационные улучшения
-
----
-
-## Что получает клиент
-- Быстрый запуск MVP без хаоса в коде
-- Прозрачные этапы и сроки
-- Поддерживаемую архитектуру
-- Фокус на бизнес-результат, а не «код ради кода»
-
----
-
-## Стек
-- Frontend: React, Next.js, TypeScript, Tailwind, GSAP, Framer Motion
-- Backend: FastAPI, Django/DRF, Node.js (Express)
-- Data/Infra: PostgreSQL, Supabase Auth & Storage, Vercel deployment, Docker basics
-- Workflow: Codex/Cursor/Antigravity/Claude/agentic delivery
+## Stack
+- **Frontend:** TypeScript, React, Next.js
+- **Backend:** Node.js, Express
+- **Data/Infra:** PostgreSQL, Supabase, Vercel, Docker
+- **APIs:** OpenAI API, Telegram Bot API
 
 ---
 
 ## CTA / Связаться
-Если нужен исполнитель, который **может быстро разобрать задачу и довести до рабочего релиза**, пиши:
+If you already have a project, send your repo/demo + blockers, and I'll propose a safe first step with timeline and budget.
 
 - Telegram: **@Stivanovv**
 - GitHub: **https://github.com/Realcampdzen**
 - Email: **nomorningst@gmail.com**
-
-Готов сделать быстрый разбор задачи и предложить план этапов + оценку.
