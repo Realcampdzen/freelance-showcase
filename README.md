@@ -1,4 +1,4 @@
-# Stanislav P. — Agentic Full-Stack Developer
+# Stepan Ivanov — Agentic Full-Stack Developer
 
 I build practical web products for founders and small teams - and I specialize in turning AI-generated prototypes into stable, working releases.
 
