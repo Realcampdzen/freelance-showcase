@@ -6,7 +6,7 @@ I build practical web products for founders and small teams - and I specialize i
 
 ## Top 4 Projects
 
-### 1) Putevoditel (AI-Powered Guide)
+### 1) RealCampApp (AI-Powered Guide)
 Scaled a full-stack application from Vercel to a custom VPS environment using Docker. Managed Node.js and Python microservices, including the "NeuraValusha" AI chatbot.
 **Tech Stack:** Node.js, Python, Docker, VPS Hosting.
 

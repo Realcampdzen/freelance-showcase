@@ -1,6 +1,6 @@
 # Portfolio
 
-## Case 1 — Putevoditel (AI-Powered Guide)
+## Case 1 — RealCampApp (AI-Powered Guide)
 - **Task:** Scale a full-stack application and manage microservices including an AI chatbot.
 - **Solution:** Migrated from Vercel to a custom VPS environment using Docker.
 - **My contribution:** Backend stability, server management, and containerization.
