@@ -51,7 +51,7 @@ Role-based платформа для лагеря с игровой механи
 ## Стек
 - Frontend: React, Next.js, TypeScript, Tailwind, GSAP, Framer Motion
 - Backend: FastAPI, Django/DRF, Node.js (Express)
-- Data/Infra: PostgreSQL · Supabase · Vercel · Docker basics
+- Data/Infra: PostgreSQL, Supabase Auth & Storage, Vercel deployment, Docker basics
 - Workflow: Codex/Cursor/Antigravity/Claude/agentic delivery
 
 ---
